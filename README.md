@@ -4,7 +4,7 @@
   https://www.figma.com/design/jbri3sCL5gfMRc8oSJODNA/Kitten-pic-art?m=dev&node-id=3%3A240&t=TcFRJ1arTKUhixuj-1
 
 - Voici le sketch pré maquette:  
-  ![alt text](../sketch/IMG_20240523_094606.jpg)  
-  ![alt text](../sketch/IMG_20240523_094642.jpg)
+  ![alt text](sketch/IMG_20240523_094606.jpg)  
+  ![alt text](sketch/IMG_20240523_094642.jpg)
 
 - Les photos sont triées par collection: nature, animaux, classiques, et les utilisateurs peuvent également naviguer dans les best-sellers, et les nouveautés.
